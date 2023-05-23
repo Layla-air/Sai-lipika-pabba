@@ -75,7 +75,7 @@ section{
 
 .home{
 height: 100vh;
-background: linear-gradient(rgba(0,5,0,0), rgba(0,5,0,0)),url(images/back.jpg);
+background: linear-gradient(rgba(0,5,0,0), rgba(0,5,0,0)),url(back.jpg);
 filter: grayscale(100%);
 background-size: cover;
 background-position: center;
